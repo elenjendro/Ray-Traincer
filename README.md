@@ -6,6 +6,10 @@ A simulation of the behavior of a source of light over a moving train.
 
 The project aims to generate a bach of rays placed based on their proportional space of a circle and search if any of the rays collide with a surface. If so the ray must be blocked by the surface.
 
+Try it at:
+
+https://elenjendro.com/Ray-Traincer/
+
 <img src=/screenshots/scr1.png width="500"/> <img src=/screenshots/scr2.png width="500"/>
 
 ## Instalation Guide:
